@@ -114,15 +114,15 @@ async function main() {
       const faangJobs = await fetchJobs({
         ...table.query,
         company_type: "faang",
-      });
+      }, table.rpc);
       const quantJobs = await fetchJobs({
         ...table.query,
         company_type: "financial",
-      });
+      }, table.rpc);
       const jobs = await fetchJobs({
         ...table.query,
         company_type: "other",
-      });
+      }, table.rpc);
 
       const tables = {
         faang: generateMarkdownTable(faangJobs, table.salary, table.interval),

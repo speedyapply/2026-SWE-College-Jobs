@@ -10,16 +10,17 @@ const supabaseKey = process.env.SUPABASE_KEY;
 const supabase =
   supabaseUrl && supabaseKey ? createClient(supabaseUrl, supabaseKey) : null;
 
-export async function fetchJobs(params: {
-  job_type: string;
-  is_usa: boolean;
-  company_type: string;
-}) {
+type JobQueryParams = Record<string, string | number | boolean | null>;
+
+export async function fetchJobs(
+  params: JobQueryParams,
+  rpcName: string = "get_jobs"
+) {
   if (!supabase) {
     throw new Error("Supabase client is not initialized.");
   }
 
-  const { data, error } = await supabase.rpc("get_jobs", params);
+  const { data, error } = await supabase.rpc(rpcName, params);
 
   if (error) {
     throw new Error(`Supabase query error: ${error.message}`);

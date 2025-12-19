@@ -3,6 +3,7 @@ export const TABLES = [
     path: "../../../README.md",
     salary: true,
     interval: "hr",
+    rpc: "get_jobs",
     query: {
       job_type: "intern",
       is_usa: true,
@@ -12,6 +13,7 @@ export const TABLES = [
     path: "../../../NEW_GRAD_USA.md",
     salary: true,
     interval: "yr",
+    rpc: "get_jobs",
     query: {
       job_type: "new_grad",
       is_usa: true,
@@ -21,6 +23,7 @@ export const TABLES = [
     path: "../../../INTERN_INTL.md",
     salary: false,
     interval: undefined,
+    rpc: "get_jobs",
     query: {
       job_type: "intern",
       is_usa: false,
@@ -30,9 +33,22 @@ export const TABLES = [
     path: "../../../NEW_GRAD_INTL.md",
     salary: false,
     interval: undefined,
+    rpc: "get_jobs",
     query: {
       job_type: "new_grad",
       is_usa: false,
+    },
+  },
+  {
+    path: "../../../MID_LEVEL_REMOTE_USA.md",
+    salary: true,
+    interval: "yr",
+    rpc: "get_mid_level_remote_usa_jobs",
+    query: {
+      is_usa: true,
+      remote_only: true,
+      min_experience_years: 3,
+      max_experience_years: 9,
     },
   },
 ] as const;
