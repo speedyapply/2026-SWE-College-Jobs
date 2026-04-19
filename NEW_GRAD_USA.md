@@ -2,7 +2,7 @@
 
 ### USA Positions :eagle:
 - [Internships :books:](/) - **301** available ([FAANG+](/#faang), [Quant](/#quant), [Other](/#other))
-- [New Graduate :mortar_board:](/NEW_GRAD_USA.md) - **409** available ([FAANG+](#faang), [Quant](#quant), [Other](#other))
+- [New Graduate :mortar_board:](/NEW_GRAD_USA.md) - **410** available ([FAANG+](#faang), [Quant](#quant), [Other](#other))
 
 ### International Positions :globe_with_meridians:
 - [Internships :books:](/INTERN_INTL.md) - **368** available ([FAANG+](/INTERN_INTL.md#faang), [Quant](/INTERN_INTL.md#quant), [Other](/INTERN_INTL.md#other))
@@ -385,6 +385,7 @@
 | <a href="https://www.d2l.com"><strong>D2L- Early Talent</strong></a> | Software Developer - New Graduate | Kitchener, ON, Canada, Toronto, ON, Canada, Vancouver, British Columbia, Canada, Winnipeg, MB, Canada | <a href="https://www.d2l.com/careers/early-talent/jobs/?job_id=7455531&gh_jid=7455531"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 108d |
 | <a href="http://www.oklo.com"><strong>Oklo</strong></a> | Junior Software Engineer | Remote | <a href="https://job-boards.greenhouse.io/oklo/jobs/5739861004"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 120d |
 | <a href="https://www.mechanize.work/"><strong>Mechanize</strong></a> | Software Engineering Intern | San Francisco, CA | <a href="https://jobs.ashbyhq.com/mechanize/d148d54f-6db7-4c28-9699-0304596f554e"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 141d |
+| <a href="https://www.mechanize.work/"><strong>Mechanize</strong></a> | Junior Software Engineer | San Francisco, CA | <a href="https://jobs.ashbyhq.com/mechanize/b50c89dc-001c-4fb6-a4fc-a9f52f35b490"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 141d |
 
 <!-- TABLE_END -->
 
