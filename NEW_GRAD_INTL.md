@@ -2,7 +2,7 @@
 
 ### USA Positions :eagle:
 - [Internships :books:](/) - **301** available ([FAANG+](/#faang), [Quant](/#quant), [Other](/#other))
-- [New Graduate :mortar_board:](/NEW_GRAD_USA.md) - **407** available ([FAANG+](/NEW_GRAD_USA.md#faang), [Quant](/NEW_GRAD_USA.md#quant), [Other](/NEW_GRAD_USA.md#other))
+- [New Graduate :mortar_board:](/NEW_GRAD_USA.md) - **410** available ([FAANG+](/NEW_GRAD_USA.md#faang), [Quant](/NEW_GRAD_USA.md#quant), [Other](/NEW_GRAD_USA.md#other))
 
 ### International Positions :globe_with_meridians:
 - [Internships :books:](/INTERN_INTL.md) - **368** available ([FAANG+](/INTERN_INTL.md#faang), [Quant](/INTERN_INTL.md#quant), [Other](/INTERN_INTL.md#other))

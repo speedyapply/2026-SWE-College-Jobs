@@ -2,7 +2,7 @@
 
 ### USA Positions :eagle:
 - [Internships :books:](/) - **301** available ([FAANG+](/#faang), [Quant](/#quant), [Other](/#other))
-- [New Graduate :mortar_board:](/NEW_GRAD_USA.md) - **407** available ([FAANG+](#faang), [Quant](#quant), [Other](#other))
+- [New Graduate :mortar_board:](/NEW_GRAD_USA.md) - **410** available ([FAANG+](#faang), [Quant](#quant), [Other](#other))
 
 ### International Positions :globe_with_meridians:
 - [Internships :books:](/INTERN_INTL.md) - **368** available ([FAANG+](/INTERN_INTL.md#faang), [Quant](/INTERN_INTL.md#quant), [Other](/INTERN_INTL.md#other))
@@ -106,6 +106,7 @@
 | <a href="https://www.kbr.com"><strong>KBR</strong></a> | Junior Software Engineer | El Segundo, California | <a href="https://kbr.wd5.myworkdayjobs.com/en-US/kbr_careers/job/El-Segundo-California/Junior-Software-Engineer_R2121823"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 5d |
 | <a href="https://www.massmutualascend.com/"><strong>MassMutual Ascend Life Insurance</strong></a> | Associate Software Engineer | Cincinnati, OH | <a href="https://massmutual.wd1.myworkdayjobs.com/en-US/mmascendcareers/job/Cincinnati-OH/Associate-Software-Engineer_R20602"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 5d |
 | <a href="https://www.optisigns.com/"><strong>OptiSigns</strong></a> | Software Engineer - Entry Level | Houston, Texas, US | <a href="https://apply.workable.com/optisigns-inc/j/EB560EFFD4/"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 5d |
+| <a href="https://www.paloaltonetworks.com"><strong>Palo Alto Networks</strong></a> | Software Engineer - Bachelors - New College Grad | Santa Clara, CA | <a href="https://app.ripplematch.com/v2/public/job/9f16f671?from_page=company_branded_page&utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=github&utm_term=null"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 5d |
 | <a href="https://silver.dev/"><strong>Silver</strong></a> | Ramp - Early Career Software Engineer | Remote | <a href="https://jobs.ashbyhq.com/silver/0c7fc4c6-4870-4258-8b27-e0c7d32ce7f8"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 5d |
 | <a href="https://tsc.com/"><strong>Technology Service Corporation</strong></a> | Electrical/Computer Software Engineer I | Huntsville, AL | <a href="https://tsc.wd12.myworkdayjobs.com/en-US/tsc-careers/job/Huntsville-AL/Electrical-Computer-Software-Engineer-I_JR2508"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 5d |
 | <a href="https://thewaltdisneycompany.com"><strong>Walt Disney</strong></a> | Software Engineer I | New York, NY, USA | <a href="https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/New-York-NY-USA/Software-Engineer-I_10147090"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 5d |
@@ -383,6 +384,8 @@
 | <a href="https://www.citizenhealth.com/"><strong>Citizen Health</strong></a> | Early Career Software Engineer | San Francisco | <a href="https://jobs.ashbyhq.com/citizen%20health/7133dff5-e5a0-425b-81da-b6f78e78d944"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 108d |
 | <a href="https://www.d2l.com"><strong>D2L- Early Talent</strong></a> | Software Developer - New Graduate | Kitchener, ON, Canada, Toronto, ON, Canada, Vancouver, British Columbia, Canada, Winnipeg, MB, Canada | <a href="https://www.d2l.com/careers/early-talent/jobs/?job_id=7455531&gh_jid=7455531"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 108d |
 | <a href="http://www.oklo.com"><strong>Oklo</strong></a> | Junior Software Engineer | Remote | <a href="https://job-boards.greenhouse.io/oklo/jobs/5739861004"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 120d |
+| <a href="https://www.mechanize.work/"><strong>Mechanize</strong></a> | Software Engineering Intern | San Francisco, CA | <a href="https://jobs.ashbyhq.com/mechanize/d148d54f-6db7-4c28-9699-0304596f554e"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 141d |
+| <a href="https://www.mechanize.work/"><strong>Mechanize</strong></a> | Junior Software Engineer | San Francisco, CA | <a href="https://jobs.ashbyhq.com/mechanize/b50c89dc-001c-4fb6-a4fc-a9f52f35b490"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 141d |
 
 <!-- TABLE_END -->
 
