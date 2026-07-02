@@ -2,6 +2,8 @@
 
 This repository is a comprehensive list of Software Engineering jobs for college students in search of **internships** or **new graduate** positions. The positions are updated daily, and we prioritize jobs posted within the last 120 days.
 
+> Canada-specific companion: [Hanzilla Jobs — Software Engineering roles](https://jobs.hanzilla.co/categories/software-engineering/) is a free daily-updated Canadian student/recent-grad board with software engineering internships, co-ops, new-grad, junior, and entry-level roles.
+
 ### USA Positions :eagle:
 - [Internships :books:](/) - **147** available ([FAANG+](#faang), [Quant](#quant), [Other](#other))
 - [New Graduate :mortar_board:](/NEW_GRAD_USA.md) - **350** available ([FAANG+](/NEW_GRAD_USA.md#faang), [Quant](/NEW_GRAD_USA.md#quant), [Other](/NEW_GRAD_USA.md#other))
